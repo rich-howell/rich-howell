@@ -5,15 +5,12 @@
 - 🌱 I’m currently learning Microsoft SQL Server Intergration Services
 - 💬 Ask me about Micrsofot SQL Server
 - 📫 How to reach me: Twitter
-- ⚡ Fun fact: I like to paint minitures and follow a vegan diet ☘
+- ⚡ Fun fact: I like to paint minitures and follow a vegan diet 🥦
 
 ### Connect with me:
 
 [<img align="left" alt="codenameowl.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="BonzaOwl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[website]: https://codenameowl.com
-[twitter]: https://twitter.com/BonzaOwl
 
 <br />
 
@@ -36,3 +33,6 @@
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[website]: https://codenameowl.com
+[twitter]: https://twitter.com/BonzaOwl
