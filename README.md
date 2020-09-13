@@ -32,6 +32,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Jekyll On Windows Using Linux Subsystem](codenameowl.netlify.com/jekyll-windows-linux-subsystem)
+- [SQL Server 2014 Service Pack Error](codenameowl.netlify.com/SQL-Server-2014-Service-Pack-Error)
+- [Corrupting databases on purpose with dbatools](codenameowl.netlify.com/corrupting-databases-on-purpose-with-dbatools)
+- [Database Migration Using DbaTools](codenameowl.netlify.com/database-migration-using-dbatools)
+- [Exporting Database Names To CSV](codenameowl.netlify.com/exporting-database-names-to-csv)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codenameowl.com
