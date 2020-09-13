@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on an application to collect [https://github.com/BonzaOwl/WeatherCollector][weather data]!
+- 🌱 I’m currently learning Microsoft SQL Server Intergration Services
+- 💬 Ask me about Micrsofot SQL Server
+- 📫 How to reach me: Twitter
+- ⚡ Fun fact: I like to paint minitures and follow a vegan diet ☘
 
 ### Connect with me:
 
@@ -17,6 +14,8 @@
 
 [website]: https://codenameowl.com
 [twitter]: https://twitter.com/BonzaOwl
+
+<br />
 
 ### Languages and Tools:
 
