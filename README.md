@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an application to collect [https://github.com/BonzaOwl/WeatherCollector][weather data]!
+- 🔭 I’m currently working on an application to collect [weather data][https://github.com/BonzaOwl/WeatherCollector]!
 - 🌱 I’m currently learning Microsoft SQL Server Intergration Services
 - 💬 Ask me about Micrsofot SQL Server
 - 📫 How to reach me: Twitter
