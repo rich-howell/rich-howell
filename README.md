@@ -32,11 +32,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding My Workstation](codenameowl.netlify.com/rebuilding-my-workstation)
-- [Install Jekyll On Windows Using Linux Subsystem](codenameowl.netlify.com/jekyll-windows-linux-subsystem)
-- [SQL Server 2014 Service Pack Error](codenameowl.netlify.com/SQL-Server-2014-Service-Pack-Error)
-- [Corrupting databases on purpose with dbatools](codenameowl.netlify.com/corrupting-databases-on-purpose-with-dbatools)
-- [Database Migration Using DbaTools](codenameowl.netlify.com/database-migration-using-dbatools)
+- [Sending Query Results As CSV Using Database Mail](https://richinsql.com/post/2021-12-13-sending-results-as-csv/)
+- [Configuring SQL Server Database Mail](https://richinsql.com/post/2021-12-06-configuring-sqlserver-databasemail/)
+- [SQL Server Concatenating Strings](https://richinsql.com/post/2021-11-29-sqlserver-concatenating-strings/)
+- [Creating a filterable search using dynamic sql](https://richinsql.com/post/2021-11-22-filterable-search-using-dynamic-sql/)
+- [Differences between views and stored procedures](https://richinsql.com/post/2021-11-15-difference-views-stored-procedures/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codenameowl.com
