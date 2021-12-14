@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an application to collect [weather data](https://github.com/BonzaOwl/WeatherCollector)!
+- 🔭 I'm currently working on an open source Formula One database project.
 - 🌱 I’m currently learning Microsoft SQL Server Intergration Services
 - 💬 Ask me about Micrsofot SQL Server
-- 📫 How to reach me: Twitter
 - ⚡ Fun fact: I like to paint minitures and follow a vegan diet 🥦
 
 ### Connect with me:
 
-[<img align="left" alt="codenameowl.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="BonzaOwl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="richinsql.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RichInSQL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -39,5 +38,5 @@
 - [Differences between views and stored procedures](https://richinsql.com/post/2021-11-15-difference-views-stored-procedures/)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://codenameowl.com
-[twitter]: https://twitter.com/BonzaOwl
+[website]: https://richinsql.com
+[twitter]: https://twitter.com/RichInSql
