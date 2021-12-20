@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Database Trigger To Track Changes](https://richinsql.com/post/2021-12-20-database-triggers-to-track-changes/)
 - [Sending Query Results As CSV Using Database Mail](https://richinsql.com/post/2021-12-13-sending-results-as-csv/)
 - [Configuring SQL Server Database Mail](https://richinsql.com/post/2021-12-06-configuring-sqlserver-databasemail/)
 - [SQL Server Concatenating Strings](https://richinsql.com/post/2021-11-29-sqlserver-concatenating-strings/)
 - [Creating a filterable search using dynamic sql](https://richinsql.com/post/2021-11-22-filterable-search-using-dynamic-sql/)
-- [Differences between views and stored procedures](https://richinsql.com/post/2021-11-15-difference-views-stored-procedures/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
