@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Formula One PowerBI Dashboard](https://richinsql.com/post/2021-12-27-formula1-powerbi-dashboard/)
-- [2021 - Merry Christmas](https://richinsql.com/post/2021-12-25-merry-christmas/)
-- [SQL Server Database Trigger To Track Changes](https://richinsql.com/post/2021-12-20-database-triggers-to-track-changes/)
-- [Sending Query Results As CSV Using Database Mail](https://richinsql.com/post/2021-12-13-sending-results-as-csv/)
-- [Configuring SQL Server Database Mail](https://richinsql.com/post/2021-12-06-configuring-sqlserver-databasemail/)
+- [Formula One PowerBI Dashboard](https://richinsql.com/posts/2021-12-27-formula1-powerbi-dashboard/)
+- [Formula One Database](https://richinsql.com/projects/project-2/)
+- [2021 - Merry Christmas](https://richinsql.com/posts/2021-12-25-merry-christmas/)
+- [Formula One PowerBi Dashboard](https://richinsql.com/projects/project-1/)
+- [SQL Server Database Trigger To Track Changes](https://richinsql.com/posts/2021-12-20-database-triggers-to-track-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
