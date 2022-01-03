@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Database Mail Format Content As HTML](https://richinsql.com/posts/2022-01-03-database-mail-html-format/)
+- [SQL Server Using Comments In Your Code](https://richinsql.com/posts/2022-01-03-sql-server-comments-in-your-code/)
 - [2021 Year In Review](https://richinsql.com/posts/2022-01-01-year-in-review/)
 - [Formula One PowerBI Dashboard](https://richinsql.com/posts/2021-12-27-formula1-powerbi-dashboard/)
 - [Formula One Database](https://richinsql.com/projects/project-2/)
-- [2021 - Merry Christmas](https://richinsql.com/posts/2021-12-25-merry-christmas/)
-- [Formula One PowerBi Dashboard](https://richinsql.com/projects/project-1/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
