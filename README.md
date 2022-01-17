@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up SQL Server Databases In Docker](https://richinsql.com/posts/2022-01-17-setting-up-sql-server-databases-in-docker/)
 - [SQL Server Resetting Identity Seed](https://richinsql.com/posts/2022-01-10-sql-server-resetting-identity-seed/)
 - [SQL Server Using Comments In Your Code](https://richinsql.com/posts/2022-01-03-sql-server-comments-in-your-code/)
 - [2021 Year In Review](https://richinsql.com/posts/2022-01-01-year-in-review/)
 - [Formula One PowerBI Dashboard](https://richinsql.com/posts/2021-12-27-formula1-powerbi-dashboard/)
-- [Formula One Database](https://richinsql.com/projects/project-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
