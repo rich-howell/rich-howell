@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting SQL Server Object Information](https://richinsql.com/posts/2022-02-14-getting-object-information/)
 - [Availability Agent](https://richinsql.com/scripts/availability-agent/)
 - [Apple Health PowerBi Dashboard](https://richinsql.com/posts/2022-01-31-apple-health-powerbi-dashboard/)
 - [SQL Server Moving Objects Between Schemas](https://richinsql.com/posts/2022-01-24-sql-server-moving-objects-between-schemas/)
 - [Setting Up SQL Server Databases In Docker](https://richinsql.com/posts/2022-01-17-setting-up-sql-server-databases-in-docker/)
-- [SQL Server Resetting Identity Seed](https://richinsql.com/posts/2022-01-10-sql-server-resetting-identity-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
