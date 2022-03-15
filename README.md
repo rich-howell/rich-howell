@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on an open source Formula One database project.
 - 🌱 I’m currently learning Microsoft SQL Server Intergration Services
-- 💬 Ask me about Micrsofot SQL Server
+- 💬 Ask me about Microsoft SQL Server
 - ⚡ Fun fact: I like to paint minitures and follow a vegan diet 🥦
 
 ### Connect with me:
