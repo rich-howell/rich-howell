@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SQL Server&#39;s Information Schema](https://richinsql.com/posts/2022-04-25-using-sql-server-information-schema/)
 - [What&#39;s the difference between CAST &amp; CONVERT](https://richinsql.com/posts/2022-02-14-cast-convert/)
 - [The Future Of Rich In SQL](https://richinsql.com/posts/2022-03-21-the-future-of-rich-in-sql/)
 - [Build A SQL Server Availability Group Lab In Hyper-V](https://richinsql.com/posts/2022-02-14-local-sql-server-test-lab/)
 - [Getting SQL Server Object Information](https://richinsql.com/posts/2022-02-14-getting-object-information/)
-- [Apple Health PowerBi Dashboard](https://richinsql.com/posts/2022-01-31-apple-health-powerbi-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
