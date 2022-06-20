@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Where do I start with SQL Server](https://richinsql.com/posts/2022-02-14-where-do-i-start-with-sql-server/)
 - [Creating a configuration system for SSIS](https://richinsql.com/posts/2022-06-13-config-system-ssis/)
 - [SQL Server Trace Flag 3226](https://richinsql.com/posts/2022-05-09-trace-flag-3226/)
 - [What is a primary key](https://richinsql.com/posts/2022-05-02-what-is-a-primary-key/)
 - [Using SQL Server&#39;s Information Schema](https://richinsql.com/posts/2022-04-25-using-sql-server-information-schema/)
-- [What&#39;s the difference between CAST &amp; CONVERT](https://richinsql.com/posts/2022-02-14-cast-convert/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
