@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Pivot](https://richinsql.com/2022/07/sql-server-pivot/)
 - [Where do I start with SQL Server](https://richinsql.com/2022/06/where-do-i-start-with-sql-server/)
 - [Creating a configuration system for SSIS](https://richinsql.com/2022/06/creating-a-configuration-system-for-ssis/)
 - [SQL Server Trace Flag 3226](https://richinsql.com/2022/05/sql-server-trace-flag-3226/)
 - [What is a primary key](https://richinsql.com/2022/05/what-is-a-primary-key/)
-- [Using SQL Server&#39;s Information Schema](https://richinsql.com/2022/04/using-sql-servers-information-schema/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
