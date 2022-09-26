@@ -31,11 +31,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Validate NHS Number Using A SQL Server Scalar Function](https://richinsql.com/2022/09/validate-nhs-number-using-a-sql-server-scalar-function/)
 - [Dynamically creating a SQL Server table with dynamic SQL](https://richinsql.com/2022/08/dynamically-creating-a-sql-server-table-with-dynamic-sql/)
 - [Can I change my SQL database while in a restoring state](https://richinsql.com/2022/08/can-i-change-my-sql-database-while-in-a-restoring-state/)
 - [SQL Server Pivot](https://richinsql.com/2022/07/sql-server-pivot/)
 - [Where do I start with SQL Server](https://richinsql.com/2022/06/where-do-i-start-with-sql-server/)
-- [Creating a configuration system for SSIS](https://richinsql.com/2022/06/creating-a-configuration-system-for-ssis/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://richinsql.com
