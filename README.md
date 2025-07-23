@@ -9,7 +9,6 @@
 ### Connect with me:
 
 [<img align="left" alt="richinsql.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RichInSQL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -29,14 +28,4 @@
 <br />
 <br />
 
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Validate NHS Number Using A SQL Server Scalar Function](https://richinsql.com/2022/09/validate-nhs-number-using-a-sql-server-scalar-function/)
-- [Dynamically creating a SQL Server table with dynamic SQL](https://richinsql.com/2022/08/dynamically-creating-a-sql-server-table-with-dynamic-sql/)
-- [Can I change my SQL database while in a restoring state](https://richinsql.com/2022/08/can-i-change-my-sql-database-while-in-a-restoring-state/)
-- [SQL Server Pivot](https://richinsql.com/2022/07/sql-server-pivot/)
-- [Where do I start with SQL Server](https://richinsql.com/2022/06/where-do-i-start-with-sql-server/)
-<!-- BLOG-POST-LIST:END -->
-
 [website]: https://richinsql.com
-[twitter]: https://twitter.com/RichInSql
